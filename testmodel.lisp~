@@ -1,0 +1,4 @@
+;;; A simple model to test the dynamics of the retrieval buffer.
+
+(clear-all)
+
