@@ -1,14 +1,14 @@
 # Inter-trial effects in ACT-R
 
 This is a general model for inter-trial effects. By inter-trial
-effects I mean _priming_ effects,  or any other automatic processing
+effects I mean _priming_ effects, or any other automatic processing of
 a specific stimulus _S_ at time _t_ following the processing of
 another stimulus at time _t - 1_. These effects include, but are not
 limited to,  _Semantic priming_ effects as typically seen in lexical
 decision tasks.
 
 Some other effects, such as the __Gratton effect__ (that is,
-adjustments in control following a  given stimulus) and the __Negative
+adjustments in control following a given stimulus) and the __Negative
 priming__ effects, might be due to effects in control.
 
 ## How does it happen?
@@ -18,7 +18,7 @@ not a problem.
 
 The main idea is that cognition does flexible multitasking. When a
 stimulus is processed, automatic retrieval will cause the retrieval of
-information. So processing stimulys _S1_ at time _t_ will cause the
+information. So processing stimulus _S1_ at time _t_ will cause the
 retrieval buffer to be filled up.
 
 At time _t + 1_, the retrieval of information for _S2_ will be
